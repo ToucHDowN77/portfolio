@@ -3412,7 +3412,7 @@ img.u-pull-left {
     text-transform : uppercase;
     letter-spacing : .35em;
     padding-left   : 9.6rem;
-    color          : rgba(243, 121, 7, 0.5);
+    color          : rgba(10, 5, 0, 0.5);
     position       : relative;
 }
 
@@ -3426,7 +3426,7 @@ img.u-pull-left {
     display          : block;
     height           : 2px;
     width            : 8rem;
-    background-color : rgba(236, 129, 5, 0.15);
+    background-color : rgba(5, 3, 0, 0.15);
     position         : absolute;
     top              : calc(50% - 1px);
     left             : 0;
