@@ -11,6 +11,8 @@ Covid-19 has created unprecedented working disturbances to the local agricultura
 
 ## 1. Overview
 
+This project will examine comparatively the incoming immigration flows from Albania to Greece, for the 'pandemic' years 2020 and 2021. General lockdown measures affected significantly national borders crossing, resulting in a unprecedented loss of work labour for Greece's agricultural sector, which traditionally and for many reasons, is not served by Greeks but by Albanians instead, through established bi-national Work Treaties. To overcome this problem, both interested parties came to a mutual understanding of bringing into effect a new legal and technical way of allowing immigration flows to come to Greece for work, that is summarized in the aforementioned art. 16, law no.4783/2021. Using its provisions, Greek farmers who request Albanian working hands, should follow a specific electronic process of applying for them and then the Civil Service issues the necessary permits that allow the entrance of the Albanina
+
 
 
 
