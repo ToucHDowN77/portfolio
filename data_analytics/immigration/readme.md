@@ -15,19 +15,11 @@ This project will examine comparatively the incoming immigration flows from Alba
 
 ## 2. Research motivation 
 
+This project's purpose, besides the apparent administrative or legal interest it may or it may not create, is of course to showcase my current (Sep. 2021) level of knowledge using tools to perform data analysis. I intend to keep this project in an 'open' state, meaning that while my studies on this field grow, I'll return to add some touches, here and there, to reflect that newly acquired knowledge. Needless to repeat, this is my **'Google Data Analytics Professional'** Capstone Project, which got me into a deep-dive state into Data Analytics.
+
 ## 3. Technical aspects
 
 - [ ] Total datasets given for research
 - [ ] Check, rename, move around to directories using Python
 - [ ] Create sections for Google's schema (6 phases)
-
-
-
-
-
-
-
-
-
-
 
