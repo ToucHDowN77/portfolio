@@ -22,4 +22,5 @@ This project's purpose, besides the apparent administrative or legal interest it
 - [ ] Total datasets given for research
 - [ ] Check, rename, move around to directories using Python
 - [ ] Create sections for Google's schema (6 phases)
+- [ ] For reproducibility, R Markdown will be used for reporting on the end-project.
 
