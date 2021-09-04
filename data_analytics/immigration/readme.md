@@ -17,7 +17,9 @@ This project will examine comparatively the incoming immigration flows from Alba
 
 ## 3. Technical aspects
 
-Total datasets given for research
+- [ ] Total datasets given for research
+- [ ] Check, rename, move around to directories using Python
+- [ ] Create sections for Google's schema (6 phases)
 
 
 
